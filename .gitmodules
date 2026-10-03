@@ -1,0 +1,9 @@
+[submodule "vendor/RED4ext.SDK"]
+	path = vendor/RED4ext.SDK
+	url = https://github.com/WopsS/RED4ext.SDK
+[submodule "vendor/RedLib"]
+	path = vendor/RedLib
+	url = https://github.com/psiberx/cp2077-red-lib
+[submodule "vendor/enet"]
+	path = vendor/enet
+	url = https://github.com/lsalzman/enet
